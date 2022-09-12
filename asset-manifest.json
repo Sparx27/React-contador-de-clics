@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Sparx27/static/css/main.6072e150.css",
+    "main.js": "/Sparx27/static/js/main.ad6ee486.js",
+    "static/media/freecodecamp-logo.png": "/Sparx27/static/media/freecodecamp-logo.5486935b905c7949600c.png",
+    "index.html": "/Sparx27/index.html",
+    "main.6072e150.css.map": "/Sparx27/static/css/main.6072e150.css.map",
+    "main.ad6ee486.js.map": "/Sparx27/static/js/main.ad6ee486.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6072e150.css",
+    "static/js/main.ad6ee486.js"
+  ]
+}
